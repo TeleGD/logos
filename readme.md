@@ -1,9 +1,9 @@
-# Logotypes de *TeleGame Design*
+# Logotypes de [*TeleGame Design*](https://telegd.github.io/)
 
-# Logo complet
+# Logo original
 
 ![](full-logo.png)
 
-# Logo monochrome
+# Variante monochrome
 
 ![](monochromic-logo.png)
