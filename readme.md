@@ -1,9 +1,33 @@
 # Logotypes de [*TeleGame Design*](https://telegd.github.io/)
 
-# Logo original
+## Version complète
 
-![](full-logo.png)
+### Multicolore
 
-# Variante monochrome
+![](brandmark/multicolored.png)
 
-![](monochromic-logo.png)
+### Bicolore
+
+![](brandmark/bicolored.png)
+
+### Incolore
+
+![](brandmark/uncolored.png)
+
+## Sigle uniquement
+
+### Multicolore
+
+![](lettermark/multicolored.png)
+
+### Bicolore
+
+![](lettermark/bicolored.png)
+
+### Unicolore
+
+![](lettermark/unicolored.png)
+
+### Incolore
+
+![](lettermark/uncolored.png)
